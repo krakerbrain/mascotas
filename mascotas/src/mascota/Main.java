@@ -14,7 +14,7 @@ public class Main {
 		perro1.setTamano("Mediano");
 		Persona persona1 = new Persona();
 		persona1.setNombre("Mario");
-		persona1.setApellido("Montenegro");
+		persona1.setApellido("Flores");
 		persona1.setEdad(45);
 		persona1.setRut("10770017-k");
 		persona1.setPerro(perro1);
